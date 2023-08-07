@@ -1,4 +1,9 @@
 # Friendly CHAT
-Testing socket.io using NodeJS as BackEnd and ReactJs as FrontEnd
+Live chat using Socket.IO
 
-Demo: https://friendly-chat-frontend.herokuapp.com/
+# Stack
+* NodeJs
+* ReactJs
+
+# Demo
+https://friendly-chat-frontend.herokuapp.com/
